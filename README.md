@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# ITP 140 React Assignment 1
+First assignment is to create a react app that uses a component and props
+
+## Before running app
+$ `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
